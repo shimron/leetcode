@@ -5,8 +5,8 @@ You can only see the k numbers in the window. Each time the sliding window moves
 package main
 
 import (
-	"errors"
-    	"fmt"
+    "errors"
+    "fmt"
 )
 
 func main()  {
