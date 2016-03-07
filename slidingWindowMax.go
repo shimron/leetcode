@@ -6,7 +6,7 @@ package main
 
 import (
 	"errors"
-    "fmt"
+    	"fmt"
 )
 
 func main()  {
